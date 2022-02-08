@@ -1,6 +1,6 @@
 ## Hi there, i'm francisco
 
-## I'm a system engineering ### student ## and ### developer ## working at Certius Tech
+## I'm a system engineering student and developer working at Certius Tech
 - 📎 I'm currently working on my portfolio 🔖 
 - 👨‍💻 I'm looking to colaborate with other content creators 🙌 
 - 🥇 2022 Goals: Contribute more to open source proyects
@@ -14,5 +14,5 @@ Any feedback will be appreciated 😃
 
 
 ## Connect with me
-# Linkedin at https://www.linkedin.com/in/franciscoghignone/
-# Instagram at https://www.instagram.com/franghignone/
+### Linkedin at https://www.linkedin.com/in/franciscoghignone/
+### Instagram at https://www.instagram.com/franghignone/
