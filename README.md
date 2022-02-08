@@ -7,7 +7,7 @@
 - 😄 Fun facts: I fly FPV drones 🛸 and do 3d modeling and printing 🗽 
 
 ## About this proyect
-In this proyect i worked with lists of products, discounts and data segmentation in .csv format.
+In ShoppingList i worked with lists of products, discounts and data segmentation in .csv format.
 This data is displayed, modified, sorted and logged into a .log file.
 
 Any feedback will be appreciated 😃 
