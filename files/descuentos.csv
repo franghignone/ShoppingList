@@ -1,0 +1,9 @@
+Producto;Descuento;Recargo;Los descuentos no se acumulan siempre aplicar el mayor
+Productos con tomate;15%;-;Los recargos disminuyen el descuento y viceversa
+Productos Arcor;12%;-;
+Golosinas;-;10%;
+Productos que vencen el 2022;7%;-;
+Productos en stock con mas de 600 unidades;20%;-;
+Productos en stock con menos de 200 unidades;-;9%;
+Productos que vienen en envase de 750 cc o menos;-;3%;
+Productos reciclables;10%;-;
