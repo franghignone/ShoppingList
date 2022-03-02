@@ -8,7 +8,7 @@
 
 ## About this proyect
 In ShoppingList i worked with lists of products, discounts and data segmentation in .csv format.
-This data is displayed, modified, sorted and logged into a .log file.
+This data is displayed, modified, sorted and logged into a .log file using log4j.
 
 Any feedback will be appreciated 😃 
 
